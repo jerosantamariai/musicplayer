@@ -1,3 +1,9 @@
 body {
   background-color: grey !important;
+  padding-top: 65px;
+}
+
+.scrollable{
+  height: 100%;
+  overflow: scroll;
 }
